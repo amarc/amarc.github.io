@@ -12,8 +12,7 @@ Far far away, behind the word mountains, far from the countries Vokalia and Cons
 sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the 
 name of Lorem Ipsum decided to leave for the far World of Grammar.
 
-![zDJzZ.jpg]({{site.baseurl}}/_posts/zDJzZ.jpg)
-
+![]({{site.baseurl}}/http://i.imgur.com/ocJ7ZAa.jpg)
 
 ## The Big Oxmox advised
 her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her 
